@@ -74,7 +74,7 @@ a {
 /* Home-Header */
 #home-header {
 	height: 100vh;
-	background: url('./images/showcase.jpg');
+	background: url('/images/showcase.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: top right;
